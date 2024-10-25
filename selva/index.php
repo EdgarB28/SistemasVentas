@@ -12,37 +12,37 @@
         $cards = [
             [
                 'title' => 'Ensalada de Chonta',
-                'image' => '/selva/img/chonta.png',
+                'image' => '../selva/img/chonta.png',
                 'description' => 'Consiste en un ají o crema espesa con pechuga de gallina deshilachada',
                 'price' => '$13.00'
             ],
             [
                 'title' => 'Ichicapi',
-                'image' => '/selva/img/ichicapi.png',
+                'image' => '../selva/img/ichicapi.png',
                 'description' => 'Consiste en arroz cocinado con pollo, verduras, y sazonado con especias',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Juane',
-                'image' => '/selva/img/juane.png',
+                'image' => '../selva/img/juane.png',
                 'description' => 'Es considerado un platillo típico en el Perú y uno de los de mayor consumo',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Patashca',
-                'image' => '/selva/img/pata.png',
+                'image' => '../selva/img/pata.png',
                 'description' => 'El cau cau es un guiso de la gastronomía peruana a base de mondongo y papas',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Purcuma',
-                'image' => '/selva/img/pur.jpg',
+                'image' => '../selva/img/pur.png',
                 'description' => 'Arroz chino elaborado en Perú , platillo bandera de la gastronomia Peruana',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Tacacho con cecina',
-                'image' => '/selva/img/tacacho.png',
+                'image' => '../selva/img/tacacho.png',
                 'description' => 'Trocitos de pescado marinado con aharina y huevo',
                 'price' => '$10.00'
             ],

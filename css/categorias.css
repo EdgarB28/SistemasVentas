@@ -1,6 +1,6 @@
 body {
     margin: 0; /* Elimina el margen por defecto */
-    background-image: url(/img/cabe.png); /* Cambia a la ruta de tu imagen */
+    background-image: url(../img/cabe.png); /* Cambia a la ruta de tu imagen */
     background-size: cover; /* Cubre todo el espacio disponible */
     background-repeat: no-repeat; /* No repite la imagen */
     background-position: center; /* Centra la imagen en el fondo */
@@ -10,7 +10,7 @@ body {
 
 .header {
     position: fixed;
-    background-image: url(/img/cabe.png);
+    background-image: url(../img/cabe.png);
     display: flex; /* Usamos flexbox para alinear elementos */
     justify-content: space-between; /* Espacio entre el login y el menú */
     align-items: center; /* Centra verticalmente */

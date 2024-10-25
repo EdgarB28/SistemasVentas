@@ -12,44 +12,44 @@
         $cards = [
             [
                 'title' => 'Ají de Gallina',
-                'image' => '/criolla/img/aji.png',
+                'image' => '../criollo/img/aji.png',
                 'description' => 'Consiste en un ají o crema espesa con pechuga de gallina deshilachada',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Arroz con Pollo',
-                'image' => '/criolla/img/arrozconpollo.png',
+                'image' => '../criollo/img/arrozconpollo.png',
                 'description' => 'Consiste en arroz cocinado con pollo, verduras, y sazonado con especias',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Pollo a la Brasa',
-                'image' => '/criolla/img/brasa.png',
+                'image' => '../criollo/img/brasa.png',
                 'description' => 'Es considerado un platillo típico en el Perú y uno de los de mayor consumo',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Caucau',
-                'image' => '/criolla/img/caucau.png',
+                'image' => '../criollo/img/caucau.png',
                 'description' => 'El cau cau es un guiso de la gastronomía peruana a base de mondongo y papas',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Chaufa de Pollo/Carne',
-                'image' => '/criolla/img/chaufa.png',
+                'image' => '../criollo/img/chaufa.png',
                 'description' => 'Arroz chino elaborado en Perú , platillo bandera de la gastronomia Peruana',
                 'price' => '$10.00'
             ],
             [
                 'title' => 'Chicharrón',
-                'image' => '/criolla/img/chicharron.png',
+                'image' => '../criollo/img/chicharron.png',
                 'description' => 'Trocitos de pescado marinado con aharina y huevo',
                 'price' => '$10.00'
             ],
            
             [
                 'title' => 'Tallarines Verdes',
-                'image' => '/criolla/img/verdes.png',
+                'image' => '../criollo/img/verdes.png',
                 'description' => 'Tallarines bañados en pasta verde , con pieza de carne',
                 'price' => '$10.00'
             ],

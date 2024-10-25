@@ -16,8 +16,8 @@
 
         <div class="carousel">
             <div class="carousel-images">
-                <img src="/img/p1.jpg" alt="Imagen 1">
-                <img src="/img/p2.jpg" alt="Imagen 2">
+                <img src="img/p1.jpg" alt="Imagen 1">
+                <img src="img/p2.jpg" alt="Imagen 2">
 
             </div>
             <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
@@ -34,7 +34,7 @@
         </div>
     </div>
 </section>
-<script src="/js/script.js"></script> <!-- Enlaza tu JavaScript -->
+<script src="js/scripts.js"></script> <!-- Enlaza tu JavaScript -->
 
 
 <section id="seccion2">
@@ -46,10 +46,10 @@
         <?php
         // Array de datos para las tarjetas
         $cards = [
-            ['title' => 'Comida Criolla',  'image' => '/img/criolla.png', 'url' => '/criolla/index.php'],
-            ['title' => 'Comida de la Selva', 'image' => '/img/selva.png', 'url' => '/selva/index.php'],
-            ['title' => 'Comida Andina',  'image' => '/img/andina.png', 'url' => '/andina/index.php'],
-            ['title' => 'Comida Marina', 'image' => '/img/marina.png', 'url' => '/marina/index.php'],
+            ['title' => 'Comida Criolla',  'image' => 'img/criolla.png', 'url' => 'criollo/index.php'],
+            ['title' => 'Comida de la Selva', 'image' => 'img/selva.png', 'url' => 'selva/index.php'],
+            ['title' => 'Comida Andina',  'image' => 'img/andina.png', 'url' => 'andina/index.php'],
+            ['title' => 'Comida Marina', 'image' => 'img/marina.png', 'url' => 'marina/index.php'],
         ];
 
         // Generar las tarjetas
@@ -72,6 +72,6 @@
 </section>
 
 
-<script src="/js/script.js"></script> <!-- Incluir el archivo JavaScript -->
+<script src="js/scripts.js"></script> <!-- Incluir el archivo JavaScript -->
 
 <?php include("template/pie.php"); ?>

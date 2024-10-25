@@ -1,8 +1,7 @@
 <?php include("template/cabecera.php"); ?>
-
 <div class="titulo">
 <br><br><br><br>
-<h1><center>COMIDA CRIOLLA</center></h1>
+<h1><center>COMIDA MARINA</center></h1>
 </div>
 
 <div class="container">
@@ -38,7 +37,7 @@
             [
                 'title' => 'Chaufa de Pollo/Carne',
                 'image' => '/criolla/img/chaufa.png',
-                'description' => 'Arroz chino elaborado en Perú , plato bandera de la gastronomia Peruana',
+                'description' => 'Arroz chino elaborado en Perú , platillo bandera de la gastronomia Peruana',
                 'price' => '$10.00'
             ],
             [
@@ -71,8 +70,6 @@
         }
         ?>
     </div>
-
-
 
 
 
